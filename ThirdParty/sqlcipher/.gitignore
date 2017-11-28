@@ -27,14 +27,11 @@ xcuserdata/*
 /libsqlite3.la
 /libtclsqlite3.la
 /sqlite3
-/sqlite3.c
-/sqlite3.h
 /lempar.c
 /parse.y
 /shell.c
 /sqlcipher
 /sqlite3.pc
 /sqlcipher.pc
-/sqlite3ext.h
 /libsqlcipher.la
 /.DS_Store
